@@ -1,4 +1,7 @@
 ---
+genres:
+  - shooter
+  - action
 post: https://www.joseprio.com/blog/2021/09/16/js13k-2021-galaxy-raid/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
